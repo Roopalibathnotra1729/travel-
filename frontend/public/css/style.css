@@ -1,0 +1,66 @@
+.bg{
+    height: 100vh;
+    width: auto;
+    background-size: 100%;
+    background-image: url('https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/t9ur9cc1khkup1dmcbzd/IMGWorldsofAdventure.webp');
+    color:white;
+    font-weight: 300;
+    background-attachment:fixed ;
+
+}
+.content{
+    
+    height: 400px;
+    width: 700px;
+    background-color: rgba(0, 0, 204,0.4);
+    margin-top: -500px;
+    margin-left: 400px;
+}
+.content:hover{
+    transform: scale(1.30,1.30); 
+    transition: 3s;
+   
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+h1::first-letter{
+    font-size: 99px;
+    color: red;
+}
+.logo{
+    
+    margin-left: 670px;
+    margin-top: -280px;
+    
+  
+ 
+}
+body{
+    background:linear-gradient(to top right, blue, white, blue, white);
+    
+}
+.ab{
+    height: 200px;
+    width: 600px;
+
+    float: right;
+    margin-right: 100px;
+    margin-top: -600px;
+   
+}
+.ab:hover{
+    transform: rotate(360deg) ;
+    transition: 3s;
+}
+.form{
+    /* height: 900px; */
+    width: 700px;
+    margin-left: 350px;
+  
+    margin-top: 100px;
+}
+
+
